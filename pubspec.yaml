@@ -1,0 +1,11 @@
+name: value_object
+description: A source_gen generator for making value objects
+version: 0.1.0
+author: Anton Astashov <anton.astashov@gmail.com>
+homepage: https://github.com/astashov/value_object.dart
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  source_gen: any
